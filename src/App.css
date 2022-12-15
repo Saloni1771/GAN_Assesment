@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+h1 {
+	font-family: "SEGA LOGO FONT";
+	color: #cc9139;
+	font-weight: 200;
+	font-size:7vw !important;
+	
+}
+.imagesize{
+    height: 200px;
+    width: 200px;
+}
+.price{
+    color: red;
+}
+.buttonstyle{
+    color: rgb(233, 40, 40);
+    padding: 3px;
+    border: 1px solid rgb(233, 40, 40);
+    border-radius: 1px;
+    margin-bottom: 8px;
+}
